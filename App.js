@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { StyleSheet, Text, View, Button, Image } from 'react-native';
 
-import logo from './assets/icon.png'
+import logo from './assets/logo.png'
 
 export default function App() {
   const [data, setData] = useState('')
